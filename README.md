@@ -51,7 +51,7 @@ Python'da nesne yönelimli programlama ile sınıf ve obje kavramlarını öğre
 # 9. Web Geliştirme
 
 Python ile Flask ve Django gibi framework'ler kullanarak web uygulamaları geliştirebiliriz.
-10. Veri Bilimi ve Yapay Zeka
+# 10. Veri Bilimi ve Yapay Zeka
 
 Python, NumPy, Pandas, Matplotlib ve TensorFlow gibi güçlü kütüphaneler sayesinde veri bilimi ve yapay zeka alanında da güçlü bir şekilde kullanılmaktadır.
 İleri Seviye Python Konuları
